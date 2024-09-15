@@ -1,4 +1,4 @@
-(Project 1) : Simple Calculator : 
+- [(Project 1) : Simple Calculator :] 
 In this assignment, I will develop a basic calculator program using Python. This project 
 will reinforce fundamental programming concepts including functions, user input, 
 conditional statements, and error handling. The application will run in the terminal and 
