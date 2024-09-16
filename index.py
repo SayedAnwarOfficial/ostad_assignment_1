@@ -13,7 +13,7 @@ def simple_calculator():
             return ("Syntax error. Since second number is 0")              
     def Modulus (x,y):
         if y != 0:
-          return x/y
+          return x%y
         else:
             return ("Syntax error. Since second number is 0")
     
