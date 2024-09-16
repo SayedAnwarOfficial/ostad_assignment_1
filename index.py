@@ -1,7 +1,7 @@
 # (Project 1) : Simple Calculator
 def simple_calculator():
     def Add(x,y):
-         return x+ y
+         return x+y
     def Subtract(x,y):
         return x-y
     def  Multiply (x,y):
@@ -10,11 +10,12 @@ def simple_calculator():
         if y != 0:
           return x/y
         else:
-            return ("Syntax error. Since second number is 0")
-         
-     
+            return ("Syntax error. Since second number is 0")              
     def Modulus (x,y):
-        return x%y
+        if y != 0:
+          return x/y
+        else:
+            return ("Syntax error. Since second number is 0")
     
     print("Select operation")
     print("1. Add")
